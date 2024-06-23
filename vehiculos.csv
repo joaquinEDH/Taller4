@@ -1,0 +1,101 @@
+ID,Marca,Modelo,Año,Kilometraje,Tipo,Atributo1,Atributo2
+1,Mercedes-Benz,Actros,2020,53419,Automóvil,Gasolina,5
+2,Ford,Mustang,2023,88784,Camión,1300kg,3
+3,Harley-Davidson,Iron 883,2018,49711,Autobús,42,Interurbano
+4,Yamaha,YZF-R3,2022,32872,Autobús,48,Urbano
+5,Ducati,Panigale V2,2015,33421,Camión,1300kg,3
+6,Scania,R450,2017,49695,Camión,5000kg,3
+7,Volvo,FH16,2018,14636,Motocicleta,Motor de 2 tiempos,948cc
+8,Harley-Davidson,Iron 883,2023,64197,Autobús,31,Interurbano
+9,Kawasaki,Ninja ZX-6R,2017,26686,Automóvil,Gasolina,4
+10,Honda,Civic,2022,61964,Camión,1300kg,2
+11,Scania,Citywide,2020,13537,Motocicleta,Motor de 4 tiempos,903cc
+12,Harley-Davidson,Iron 883,2017,90504,Autobús,42,Urbano
+13,Iveco,Urbanway,2017,56746,Camión,18000kg,2
+14,Mercedes-Benz,Sprinter,2018,49532,Automóvil,Diésel,5
+15,Ford,F-150,2018,24256,Camión,24000kg,3
+16,Scania,Citywide,2018,86339,Automóvil,Eléctrico,5
+17,Volvo,7900 Electric,2017,54913,Automóvil,Híbrido,5
+18,Ford,F-150,2016,51800,Autobús,30,Interurbano
+19,Chevrolet,Malibu,2018,62188,Motocicleta,Motor de 2 tiempos,611cc
+20,Mercedes-Benz,Sprinter,2020,32867,Automóvil,Híbrido,3
+21,Scania,Citywide,2020,5915,Camión,1300kg,2
+22,Toyota,Corolla,2023,50281,Automóvil,Eléctrico,3
+23,Harley-Davidson,Iron 883,2018,52923,Motocicleta,Motor de 4 tiempos,535cc
+24,Chevrolet,Malibu,2015,45094,Camión,5000kg,2
+25,Honda,Civic,2017,21595,Automóvil,Gasolina,2
+26,Iveco,Urbanway,2019,55114,Camión,18000kg,2
+27,Toyota,Corolla,2019,40374,Autobús,47,Interurbano
+28,Kawasaki,Ninja ZX-6R,2016,51701,Autobús,26,Interurbano
+29,Suzuki,GSX-R750,2019,29759,Autobús,48,Interurbano
+30,Honda,Civic,2018,83240,Autobús,20,Interurbano
+31,Chevrolet,Malibu,2019,59487,Automóvil,Gasolina,4
+32,Mercedes-Benz,Actros,2015,79865,Camión,18000kg,4
+33,Mercedes-Benz,Sprinter,2018,38756,Automóvil,Diésel,5
+34,Yamaha,YZF-R3,2019,77155,Camión,1300kg,4
+35,MAN,TGX,2020,74697,Camión,18000kg,3
+36,Ducati,Panigale V2,2017,12120,Camión,1300kg,3
+37,Ford,Mustang,2023,45605,Camión,1300kg,3
+38,Scania,R450,2017,35532,Motocicleta,Motor de 2 tiempos,499cc
+39,Kawasaki,Ninja ZX-6R,2022,36634,Motocicleta,Motor de 2 tiempos,588cc
+40,Mercedes-Benz,Sprinter,2020,53560,Motocicleta,Motor de 2 tiempos,279cc
+41,Toyota,Corolla,2020,49532,Automóvil,Diésel,5
+42,MAN,TGX,2023,7359,Camión,24000kg,3
+43,Kawasaki,Ninja ZX-6R,2021,16123,Motocicleta,Motor de 4 tiempos,304cc
+44,Tesla,Model S,2020,12609,Autobús,49,Interurbano
+45,Chevrolet,Malibu,2016,35877,Motocicleta,Motor de 2 tiempos,621cc
+46,Scania,Citywide,2020,65986,Autobús,35,Interurbano
+47,Mercedes-Benz,Sprinter,2016,85932,Autobús,20,Interurbano
+48,Kawasaki,Ninja ZX-6R,2015,19710,Autobús,36,Urbano
+49,Volvo,7900 Electric,2017,23353,Autobús,27,Urbano
+50,Chevrolet,Malibu,2018,70363,Motocicleta,Motor de 2 tiempos,433cc
+51,Scania,R450,2018,45563,Camión,18000kg,3
+52,Iveco,Urbanway,2022,66627,Motocicleta,Motor de 2 tiempos,759cc
+53,Iveco,Urbanway,2021,33303,Camión,1300kg,4
+54,MAN,TGX,2017,20901,Camión,5000kg,2
+55,Yamaha,YZF-R3,2015,56989,Motocicleta,Motor de 2 tiempos,327cc
+56,Mercedes-Benz,Actros,2018,96974,Motocicleta,Motor de 4 tiempos,936cc
+57,MAN,TGX,2018,67604,Motocicleta,Motor de 2 tiempos,908cc
+58,Volvo,FH16,2023,92250,Automóvil,Diésel,3
+59,Ford,Mustang,2016,47570,Motocicleta,Motor de 4 tiempos,314cc
+60,Harley-Davidson,Iron 883,2017,47425,Automóvil,Gasolina,2
+61,Kawasaki,Ninja ZX-6R,2023,77490,Camión,24000kg,3
+62,Chevrolet,Malibu,2019,10599,Automóvil,Híbrido,4
+63,Mercedes-Benz,Actros,2020,51963,Motocicleta,Motor de 4 tiempos,811cc
+64,Iveco,Urbanway,2020,29085,Autobús,35,Interurbano
+65,Honda,Civic,2015,72723,Motocicleta,Motor de 4 tiempos,738cc
+66,Mercedes-Benz,Sprinter,2018,79414,Motocicleta,Motor de 2 tiempos,585cc
+67,Volvo,FH16,2020,29438,Motocicleta,Motor de 4 tiempos,581cc
+68,Suzuki,GSX-R750,2022,61687,Motocicleta,Motor de 4 tiempos,996cc
+69,Kawasaki,Ninja ZX-6R,2015,79294,Automóvil,Híbrido,4
+70,Harley-Davidson,Iron 883,2020,66966,Autobús,22,Urbano
+71,Volvo,FH16,2018,74183,Automóvil,Eléctrico,2
+72,Volvo,7900 Electric,2018,29478,Motocicleta,Motor de 2 tiempos,582cc
+73,Volvo,FH16,2018,63063,Automóvil,Eléctrico,5
+74,Kawasaki,Ninja ZX-6R,2020,13060,Camión,5000kg,3
+75,Mercedes-Benz,Sprinter,2021,88920,Automóvil,Eléctrico,4
+76,Mercedes-Benz,Sprinter,2018,27553,Motocicleta,Motor de 4 tiempos,601cc
+77,Kawasaki,Ninja ZX-6R,2015,74194,Motocicleta,Motor de 4 tiempos,769cc
+78,Mercedes-Benz,Actros,2020,58076,Motocicleta,Motor de 2 tiempos,304cc
+79,Iveco,Urbanway,2015,87568,Motocicleta,Motor de 2 tiempos,732cc
+80,Honda,Civic,2021,79547,Motocicleta,Motor de 4 tiempos,264cc
+81,MAN,Lion's City,2023,75687,Autobús,31,Urbano
+82,Ducati,Panigale V2,2019,70143,Autobús,33,Urbano
+83,Iveco,Urbanway,2018,31542,Camión,18000kg,4
+84,Toyota,Corolla,2020,55969,Autobús,38,Interurbano
+85,MAN,TGX,2022,32773,Automóvil,Eléctrico,3
+86,Harley-Davidson,Iron 883,2017,34373,Camión,18000kg,2
+87,Ducati,Panigale V2,2018,61214,Camión,5000kg,4
+88,Ford,Mustang,2023,22673,Camión,18000kg,2
+89,Ford,Mustang,2018,40018,Motocicleta,Motor de 4 tiempos,687cc
+90,Volvo,FH16,2017,63050,Motocicleta,Motor de 4 tiempos,489cc
+91,Ducati,Panigale V2,2017,59729,Autobús,46,Urbano
+92,Harley-Davidson,Iron 883,2023,91404,Motocicleta,Motor de 4 tiempos,951cc
+93,Chevrolet,Malibu,2020,54736,Autobús,50,Interurbano
+94,Harley-Davidson,Iron 883,2018,14732,Autobús,47,Interurbano
+95,Scania,Citywide,2023,13479,Motocicleta,Motor de 2 tiempos,405cc
+96,Volvo,FH16,2015,6404,Automóvil,Híbrido,3
+97,Chevrolet,Malibu,2016,69647,Autobús,23,Interurbano
+98,Scania,Citywide,2022,94970,Autobús,29,Interurbano
+99,Mercedes-Benz,Sprinter,2022,78431,Autobús,26,Urbano
+100,Ford,Mustang,2018,48349,Camión,18000kg,4

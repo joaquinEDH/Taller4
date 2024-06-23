@@ -1,0 +1,34 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+entity Vehiculo{
+id
+marca
+modelo
+año
+kilometraje
+tipo
+atributo1
+atributo2
+}
+
+entity Mantenimiento{
+idMantenimiento
+idVehículo
+fecha
+tipoDeMantenimiento
+descripción
+}
+
+
+entity Boleta{
+id
+idVehículo
+idMantenimiento
+fechaDeEmisión
+total
+}
+
+Vehiculo "1" -- "1"Mantenimiento : Tiene >
+Mantenimiento "1" -- "1" Boleta : Genera >
+@enduml

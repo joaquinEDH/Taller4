@@ -1,0 +1,91 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+Package Model{
+Class Vehiculo{
+id : String
+marca : String
+modelo : String
+anio : int
+kilometraje : int
+tipoVehiculo : Enum
+Atributo1 : String
+Atributo2 : String
+
++ Vehiculo(id : String, marca : String, anio : int, kilometraje : int, tipoVehiculo : Enum, Atributo1 : String, Atributo2 : String) : tipoVehiculo
++ getId() : String
++ getMarca() : String
++ getModelo() : String
++ getAnio() : int
++ getKilometraje() : int
++ getTipoVehiculo() : Enum
++ getAtributo1() : String
++ getAtributo2() : String
+}
+Enum TipoVehiculo{
+AUTOMOVIL
+MOTOCICLETA
+CAMION
+BUS
+}
+class Mantenimiento{
+idMantenimiento : int
+idVehiculo : int
+fecha : String
+tipoMantencion : String
+descripcion : String
+
++ Mantenimiento(idMantenimiento : int, idVehiculo : int, fecha : String, tipoMantencion : String, descripcion : String) : idMantenimiento
++ getIdMantenimineto() : int
++ getIdVehiculo() : int
++ getFecha() : String
++ getTipoMantencion() : String
++ getDescripcion() : String
+}
+class Boleta{
+idMantenimiento : int
+vehiculo : String
+tipoMantencion : String
+fecha : String
+total : Double
+
++ Boleta(idMantenimiento : int, vehiculo : String, tipoMantencion : String, fecha : String, total : Double): boleta
++ getIdMantenimineto() : int
++ getVehiculo() : String
++ getTipoMantencion() : String
++ getFecha() : String
++ getTotal() : Double
+}
+}
+Package Service{
+Interface Sistema{
+mostrarMenu() : void
+verVehiculos() : void
+ListarVehiculos() : void
+buscarVehiculosPorTipo(tipoVehiculo : String) : void
+buscarVehiculoporId(id : int) : Vehiculos
+mostrarHistorialPorVehiculo(idVehiculo : int) : void
+agregarVehiculo() : void
+registrarMantenimiento() : void
+generarBoleta() : void
+listadoDeBoletas() : void
+SaliryGuardar() : void
+}
+class SistemaImpl{
+instance :SistemaImpl
+historialMantenimiento : List<Mantenimiento>
+vehiculos : List<Vehiculo>
+listaBoletas : List<Boleta>
+scanner : Scanner
+
++ SistemaImpl getInstance(): SistemaImpl
++ cargarDatos() : void
++ mostrarMenu() : void
+validarDatos(fecha : String, tipoMantenimiento : String) : boolean
+eliminarVehiculo(idVehiculo : int) : void
+calcularCostoFicticio(mantenimineto : Mantenimiento) : double
+}
+}
+
+SistemaImpl "1" --|> "1" Sistema
+@enduml

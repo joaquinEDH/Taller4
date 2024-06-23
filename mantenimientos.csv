@@ -1,0 +1,101 @@
+IDMantenimiento,IDVehiculo,Fecha,TipoMantenimiento,Descripcion
+1,67,2022-04-02,Revisión General,Realizado correctamente
+2,43,2023-09-18,Actualización de Software,Requiere seguimiento
+3,26,2023-03-17,Revisión General,Sin problemas
+4,33,2021-07-19,Revisión General,Reemplazo exitoso
+5,24,2021-08-09,Actualización de Software,Requiere seguimiento
+6,12,2023-07-22,Revisión General,Realizado correctamente
+7,69,2022-11-05,Mantenimiento del Motor,Sin problemas
+8,82,2022-12-04,Actualización de Software,Sin problemas
+9,4,2023-06-05,Mantenimiento del Motor,Sin problemas
+10,1,2022-04-24,Actualización de Software,Sin problemas
+11,75,2021-06-01,Actualización de Software,Reemplazo exitoso
+12,59,2022-05-08,Cambio de Aceite,Reemplazo exitoso
+13,67,2022-10-03,Cambio de Aceite,Reemplazo exitoso
+14,80,2023-01-24,Actualización de Software,Reemplazo exitoso
+15,19,2021-08-14,Mantenimiento del Motor,Realizado correctamente
+16,55,2022-04-23,Mantenimiento del Motor,Sin problemas
+17,82,2023-07-18,Cambio de Filtros,Requiere seguimiento
+18,65,2023-01-07,Mantenimiento del Motor,Sin problemas
+19,47,2021-05-04,Mantenimiento del Motor,Reemplazo exitoso
+20,66,2022-10-04,Cambio de Filtros,Realizado correctamente
+21,73,2021-05-26,Mantenimiento del Motor,Requiere seguimiento
+22,29,2021-05-20,Cambio de Aceite,Requiere seguimiento
+23,72,2022-11-16,Revisión General,Reemplazo exitoso
+24,47,2023-04-27,Cambio de Filtros,Reemplazo exitoso
+25,28,2022-05-12,Mantenimiento del Motor,Sin problemas
+26,53,2023-05-06,Cambio de Neumáticos,Requiere seguimiento
+27,28,2022-10-20,Revisión General,Sin problemas
+28,46,2022-07-18,Mantenimiento del Motor,Requiere seguimiento
+29,87,2022-01-11,Revisión General,Requiere seguimiento
+30,80,2022-09-03,Cambio de Neumáticos,Sin problemas
+31,73,2022-07-12,Revisión General,Reemplazo exitoso
+32,87,2023-02-22,Actualización de Software,Sin problemas
+33,58,2022-02-11,Cambio de Filtros,Realizado correctamente
+34,65,2023-10-17,Revisión General,Realizado correctamente
+35,50,2023-02-14,Actualización de Software,Reemplazo exitoso
+36,22,2021-02-26,Actualización de Software,Requiere seguimiento
+37,73,2021-03-23,Cambio de Neumáticos,Reemplazo exitoso
+38,75,2021-07-07,Cambio de Filtros,Requiere seguimiento
+39,42,2021-09-10,Revisión General,Sin problemas
+40,50,2021-06-25,Mantenimiento del Motor,Reemplazo exitoso
+41,70,2022-07-25,Cambio de Neumáticos,Realizado correctamente
+42,48,2021-05-15,Revisión General,Reemplazo exitoso
+43,75,2023-07-21,Revisión General,Reemplazo exitoso
+44,94,2022-01-07,Cambio de Filtros,Requiere seguimiento
+45,11,2022-07-04,Actualización de Software,Requiere seguimiento
+46,55,2023-12-08,Actualización de Software,Requiere seguimiento
+47,95,2022-06-12,Mantenimiento del Motor,Realizado correctamente
+48,47,2021-02-03,Actualización de Software,Reemplazo exitoso
+49,65,2022-06-03,Actualización de Software,Sin problemas
+50,38,2023-12-24,Cambio de Neumáticos,Reemplazo exitoso
+51,41,2023-05-28,Revisión General,Realizado correctamente
+52,68,2023-06-28,Cambio de Aceite,Sin problemas
+53,41,2023-04-12,Cambio de Filtros,Sin problemas
+54,65,2021-05-26,Actualización de Software,Requiere seguimiento
+55,45,2022-04-06,Mantenimiento del Motor,Sin problemas
+56,34,2022-04-27,Cambio de Aceite,Realizado correctamente
+57,29,2021-08-13,Actualización de Software,Requiere seguimiento
+58,2,2023-08-04,Cambio de Neumáticos,Realizado correctamente
+59,54,2023-08-19,Cambio de Neumáticos,Realizado correctamente
+60,95,2022-08-06,Cambio de Aceite,Reemplazo exitoso
+61,68,2022-11-06,Cambio de Neumáticos,Requiere seguimiento
+62,60,2023-08-12,Cambio de Neumáticos,Realizado correctamente
+63,10,2023-12-04,Cambio de Filtros,Sin problemas
+64,91,2023-10-01,Actualización de Software,Requiere seguimiento
+65,100,2022-03-17,Mantenimiento del Motor,Realizado correctamente
+66,89,2023-07-13,Cambio de Filtros,Realizado correctamente
+67,6,2021-07-18,Cambio de Filtros,Reemplazo exitoso
+68,62,2021-03-27,Actualización de Software,Sin problemas
+69,70,2023-02-11,Cambio de Aceite,Reemplazo exitoso
+70,100,2021-07-01,Cambio de Aceite,Requiere seguimiento
+71,36,2021-08-09,Revisión General,Requiere seguimiento
+72,25,2021-04-05,Cambio de Neumáticos,Sin problemas
+73,94,2021-05-15,Mantenimiento del Motor,Requiere seguimiento
+74,72,2022-09-07,Cambio de Filtros,Realizado correctamente
+75,99,2022-06-04,Actualización de Software,Sin problemas
+76,57,2021-03-28,Cambio de Aceite,Reemplazo exitoso
+77,89,2021-05-22,Mantenimiento del Motor,Realizado correctamente
+78,80,2022-02-18,Mantenimiento del Motor,Realizado correctamente
+79,43,2023-02-06,Actualización de Software,Reemplazo exitoso
+80,27,2021-01-13,Actualización de Software,Reemplazo exitoso
+81,27,2023-10-22,Cambio de Neumáticos,Sin problemas
+82,61,2023-02-22,Actualización de Software,Sin problemas
+83,64,2022-12-12,Actualización de Software,Realizado correctamente
+84,35,2022-07-27,Cambio de Aceite,Requiere seguimiento
+85,63,2021-03-06,Actualización de Software,Reemplazo exitoso
+86,8,2021-04-13,Actualización de Software,Requiere seguimiento
+87,63,2022-02-20,Cambio de Aceite,Requiere seguimiento
+88,41,2021-09-14,Actualización de Software,Realizado correctamente
+89,98,2023-12-19,Revisión General,Requiere seguimiento
+90,85,2022-01-18,Revisión General,Reemplazo exitoso
+91,73,2023-12-06,Cambio de Aceite,Requiere seguimiento
+92,60,2021-03-28,Cambio de Aceite,Reemplazo exitoso
+93,4,2022-09-08,Revisión General,Sin problemas
+94,18,2021-06-02,Cambio de Neumáticos,Requiere seguimiento
+95,15,2022-07-12,Actualización de Software,Requiere seguimiento
+96,28,2023-03-11,Cambio de Aceite,Requiere seguimiento
+97,81,2023-09-17,Cambio de Neumáticos,Requiere seguimiento
+98,95,2023-02-21,Cambio de Neumáticos,Reemplazo exitoso
+99,35,2021-07-10,Actualización de Software,Reemplazo exitoso
+100,3,2022-01-07,Revisión General,Reemplazo exitoso
